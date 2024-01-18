@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToeXamForms.MainPage" x:Name="MainContainer">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="/MainPage.css" />
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <StackLayout x:Name="GameView" Margin="0, 0, 0, 30"/>
+        <Label HorizontalOptions="Start" FontSize="18" StyleClass="standart_text" Text="Difficulty level:" />
+        <Picker x:Name="numberPicker" 
+                Title="Select a number"
+                SelectedIndexChanged="NumberPickerChanged">
+            <Picker.Items>
+                <x:String>3</x:String>
+                <x:String>5</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <StackLayout Orientation="Horizontal">
+            <Label HorizontalOptions="Center" FontSize="18" StyleClass="standart_text" Text="Dark theme" />
+            <CheckBox CheckedChanged="ThemeSwitchHandler" Color="ForestGreen"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

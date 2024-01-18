@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+        <DebugType>pdbonly</DebugType>
+        <DebugSymbols>true</DebugSymbols>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="System.Reactive" Version="6.0.1-preview.1" />
+        <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Compile Update="Views\Game_view.xaml.cs">
+            <DependentUpon>Game_view.xaml</DependentUpon>
+            <SubType>Code</SubType>
+        </Compile>
+    </ItemGroup>
+</Project>

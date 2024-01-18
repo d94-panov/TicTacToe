@@ -1,0 +1,16 @@
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\TicTacToeXamForms.csproj.AssemblyReference.cache
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\TicTacToeXamForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\Views\Game_view.xaml.g.cs
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\MainPage.css.g.cs
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\Views\Game_view.css.g.cs
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\TicTacToeXamForms.AssemblyInfoInputs.cache
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\TicTacToeXamForms.AssemblyInfo.cs
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\TicTacToeXamForms.csproj.CoreCompileInputs.cache
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\bin\Debug\netstandard2.0\TicTacToeXamForms.deps.json
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\bin\Debug\netstandard2.0\TicTacToeXamForms.dll
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\bin\Debug\netstandard2.0\TicTacToeXamForms.pdb
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\TicTacToeXamForms.dll
+C:\Users\dpabe\RiderProjects\TicTacToeXamForms\TicTacToeXamForms\TicTacToeXamForms\obj\Debug\netstandard2.0\TicTacToeXamForms.pdb

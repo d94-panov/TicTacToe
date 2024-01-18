@@ -1,0 +1,44 @@
+﻿.background {
+    /*фон*/
+    background: #EEF5FF;
+}
+
+.standart_text {
+    /*текст*/
+    color: #176B87;
+}
+
+.button {
+    /*текст кнопки*/
+    color: #176B87; 
+    /*кнопка*/
+    background: #B4D4FF;
+}
+
+.button._highlight {
+    /*подсветка*/
+    background: #86B6F6; 
+}
+
+
+.background._dark {
+    /*фон*/
+    background: #352F44;
+}
+
+._dark .standart_text {
+    /*текст*/
+    color: #FAF0E6;
+}
+
+._dark .button {
+    /*текст кнопки*/
+    color: #FAF0E6; 
+    /*кнопка*/
+    background: #5C5470;
+}
+
+._dark .button._highlight {
+    /*подсветка*/
+    background: #B9B4C7;
+}

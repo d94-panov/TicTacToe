@@ -1,0 +1,19 @@
+﻿.standart_text {
+    font-size: 30;
+}
+
+.little_text {
+    font-size: 15;
+}
+
+.standart_button {
+    font-size: 30;
+    width: 120;
+    height: 120;
+}
+
+.very_little_button {
+    width: 65;
+    height: 65;
+    font-size: 30;
+}
